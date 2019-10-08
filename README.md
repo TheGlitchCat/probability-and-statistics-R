@@ -12,11 +12,14 @@ the common lebels are S, Ω, or U (Universal Set)
 Un espacio muestral, es el conjunto de posibles resultados de un experimento.
 En la literatura se puede encontrar como S, Ω, o U (Conjunto Universal)
 
-#### Example
+#### Example / Ejemplo
+
+|     Event    |    Sample Space   |
+|:------------:|:-----------------:|
+|Throw a dice  | Ω = {1,2,3,4,5,6} | 
+
+|    Evento    |  Espacio muestral |
+|:------------:|:-----------------:|
+|Lanzar un dado| Ω = {1,2,3,4,5,6} |
+
 ![Dice](src/dice.png)
-
-Throw a dice: 
-Ω = {1,2,3,4,5,6}
-
-Lanzar un dado:
-Ω = {1,2,3,4,5,6}
