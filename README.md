@@ -14,7 +14,6 @@ En la literatura se puede encontrar como S, Ω, o U (Conjunto Universal)
 
 #### Example / Ejemplo
 
-|-----------------------------------|----------------------------------|
 |     Event    |    Sample Space   ||    Evento    |  Espacio muestral |
 |:------------:|:-----------------:||:------------:|:-----------------:|
 |Throw a dice  | Ω = {1,2,3,4,5,6} ||Lanzar un dado| Ω = {1,2,3,4,5,6} |
