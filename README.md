@@ -2,7 +2,7 @@
 ### R Manual
 
 ## Sample Space
-[Intro-R](https://github.com/TheGlitchCat/probability-and-statistics-R/blob/master/01-intro.R)
+[Sample Space](https://github.com/TheGlitchCat/probability-and-statistics-R/blob/master/01-intro.R)
 
 #### English
 A sample space of an experiment is the set of all possible outcomes or results of that experiment.
