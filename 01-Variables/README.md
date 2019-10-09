@@ -17,8 +17,8 @@ Quantitative (Numerical)
 - Continuous: Rational number 
 
 Qualitative (attribute)
-- Nominal: Without an order
-- Ordinal: With an order
+- Nominal: Without an order (Boy, Girl, Women, Men)
+- Ordinal: With an order (Low, Middle, High)
 
 #### Español
 ##### Tipos de variables 
@@ -29,5 +29,5 @@ Cuantitativas (Numericas)
 - Continuo/a: Número racional
 
 Cualitativas (Atributos)
-- Nominal: Sin un orden
-- Ordinal: Con un orden
+- Nominal: Sin un orden (Chico, Chica, Mujer, Hombre)
+- Ordinal: Con un orden (Bajo, Medio, Alto)
