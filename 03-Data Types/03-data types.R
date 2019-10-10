@@ -14,8 +14,9 @@ numbers <- c(1,1,1,2,2,3,3,4,5,5,6,7,7,8,8,8,8,8,9,0) # Vector with repetitive v
 
 # Create the function.
 getmode <- function(v) {
-  uniqv <- unique(v)
-  uniqv[which.max(tabulate(match(v, uniqv)))]
+  uniqv <- unique(v) # this create a vector without repetitive values
+  # tabulate(match(v, uniqv)) => this find and count the matches of each number
+  uniqv[which.max(tabulate(match(v, uniqv)))] # This returns the number with more matches
 }
 
 # Calculate the mode using the user function.
