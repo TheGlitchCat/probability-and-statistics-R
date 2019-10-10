@@ -22,3 +22,12 @@ getmode <- function(v) {
 # Calculate the mode using the user function.
 result <- getmode(numbers)
 print(result)
+
+# Load the data set
+duration = faithful$eruptions # the eruption duration
+mean(duration)
+var(duration) # Variance
+sd(duration) # Standar Deviation
+
+
+

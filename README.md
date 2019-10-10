@@ -4,7 +4,7 @@
 ## Contents / Contenido
 - [1. Variables](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/01-Variables)
 - [2. Sample Space / Espacio Muestral](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/02-Sample%20Space)
-
+- [3. Data types / Tipos de Datos](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/03-Data%20Types)
 
 # References 
 
