@@ -28,6 +28,18 @@ duration = faithful$eruptions # the eruption duration
 mean(duration)
 var(duration) # Variance
 sd(duration) # Standar Deviation
+h_value <- max(duration) # highest value of the dataset
+print(h_value)
+l_value <- min(duration) # lowest value of the dataset
+print(l_value)
+range <- h_value - l_value # range of the dataset 
+print(range)
+
+
+
+
+
+
 
 
 

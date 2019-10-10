@@ -26,8 +26,20 @@ Es el valor mas repetido en un conjunto de datos
 ### Variance and Standard Deviation / Varianza y desviación estandar
 ![variance](http://statisticslectures.com/images/samplevarstd.gif)
 #### English
-Variance - Is a numerical measure of how the data values is dispersed around the mean (shows how much the data varies)
-Standard Deviation - Is the square root of variance and represent the range can take the value (between edge_values = mean + sd or mean - sd )
+- Variance - Is a numerical measure of how the data values is dispersed around the mean (shows how much the data varies)
+- Standard Deviation - Is the square root of variance and represent the range can take the value (between edge_values = mean + sd or mean - sd )
 #### Español
-varianza - Es el valor que mide que tan dispersos estan los datos alrededor de la media
-Desviación estandar - es la raíz cuadrada de la varianza y representa el rango que puede tomar el valor (Entre bordes = promedio + ds o promedio - ds)
+- varianza - Es el valor que mide que tan dispersos estan los datos alrededor de la media
+- Desviación estándar - es la raíz cuadrada de la varianza y representa el rango que puede tomar el valor (Entre bordes = promedio + ds o promedio - ds)
+
+### Min, Max and Range / Mínimo, Máximo y Rango
+![dial](https://www.first5000.com.au/wp-content/uploads/2017/10/Dial-up-your-courage-4-1024x683-610x400.png)
+#### English
+- Min - It is the lowest value of the dataset
+- Max - It is the highest value of the dataset
+- Range - it is the subtraction between max and min (max - min)
+#### Español
+- Mínimo - Es el valor mas bajo del conjunto de datos
+- Máximo - Es el valor mas alto del conjunto de datos
+- Rango - Es la resta entre el valor máximo y el valor minimo
+
