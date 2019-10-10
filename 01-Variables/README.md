@@ -22,9 +22,9 @@ Qualitative (attribute)
 
 #### Español
 ##### Tipos de variables 
-Cuantitativas (Numericas)
+Cuantitativas (Numéricas)
 - Razón: Toma un valor entre los positivos [0..infinito)
-- Intervalar: Numeros entre los positivos y negativos (-,+) 
+- Intervalar: Números entre los positivos y negativos (-,+) 
 - Discreto/a: Número entero (1, 2, 3 o 4)
 - Continuo/a: Número racional (1/2, 5/8, 10/3 o 23/9)
 

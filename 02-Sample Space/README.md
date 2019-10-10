@@ -1,4 +1,4 @@
-# Sample Space / Espacio muestral
+# Sample Space / Espacio Muestral
 
 #### English
 A sample space of an experiment is the set of all possible outcomes or results of that experiment.
