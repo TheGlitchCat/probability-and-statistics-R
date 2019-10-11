@@ -72,14 +72,27 @@ Los datos atípicos son aquellos valores que están separados de la agrupación 
 #### English
 It show us how our data are distributed 
 - Leptokurtic - Slender (x > 0)
-- Mesokurtic - Normal (x=0 ± 0.5)
+- Mesokurtic - Normal (x=0 ± 0.5 or 1.5) (Some authors says 0.5 others 1.5)
 - Platykurtic - Broad (x < 0)
 #### Español
 Nos muestra como nuestra data esta agrupada o distribuida
 - Leptocúrtica - Estrecha (x > 0)
-- Mesocúrtica - Normal (x=0 ± 0.5)
+- Mesocúrtica - Normal (x=0 ± 0.5 o 1.5) (Depende de la literatura)
 - Platicírtica - Extendida / alargada (x < 0)
   
 ![kurtosis](https://miro.medium.com/max/742/1*Nqu07THa7APRTOF7kaVr5Q.jpeg)
 ![Example-kurtosis](Iris&#32;sepal&#32;length&#32;distribution.png)
 
+### Skewness / Asimetría
+#### English
+Skewness is a measure of the asymmetry of the distribution about its mean, it can be: 
+- Positive - The right tail is longer (data agruped to left)
+- Negative - The left tail is longer (data agruped to right)
+- Symmetrical - middle/center
+#### Español
+Asimetría es una medida de la distribución respecto al promedio, el cual puede ser: 
+- Positivo - La cola derecha es mas larga (datos agrupados a la izquierda)
+- Negativo - La cola izquierda es mas larga (datos agrupados a la derecha)
+- Simétrica - Centro 
+
+![skewness](https://miro.medium.com/max/1200/1*nj-Ch3AUFmkd0JUSOW_bTQ.jpeg)
