@@ -43,3 +43,11 @@ Es el valor mas repetido en un conjunto de datos
 - Máximo - Es el valor mas alto del conjunto de datos
 - Rango - Es la resta entre el valor máximo y el valor minimo
 
+## Position / Posición 
+### Quartiles / Cuartiles
+![quartile](https://i.stack.imgur.com/L4GEM.png)
+#### English
+Quartiles - split the dataset in 4 equal parts Q1 = 25%, Q2(median) = 50%, Q3 = 75%, and tell us how much of our data lies below a section. 
+### Español
+Separa el conjunto de datos en partes iguales, los cuales se dividen en Q1 = 25%, Q2(Mediana) = 50%, Q3 = 75%, y nos dice como nuestros datos están distribuidos y como estos se encuentran debajo de dichos porcentajes. 
+
