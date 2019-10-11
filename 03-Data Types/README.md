@@ -57,9 +57,13 @@ Separa el conjunto de datos en partes iguales, los cuales se dividen en Q1 = 25%
 Interquartile range(IQR) also called middle 50%, is a statistical dispersion measure, and is the result of substract between Q3 and Q1 (Q3 - Q1)
 #### Español
 El rango intercuartil es una medida de dispersión en estadística, y es el resultado de la resta entre el Q1 y Q3 (Q3 - Q1)
-### Outlier / Dato Atipico
-![outlier](https://baldscientist.files.wordpress.com/2013/02/outliers1.jpg)
+### Outlier / Dato Atípico
+#### English
+Outlier are the separated values from main body of dataset
+#### Español
+Los datos atípicos son aquellos valores que están separados de la agrupación del conjunto de datos
 
+![outlier](https://baldscientist.files.wordpress.com/2013/02/outliers1.jpg)
 
 
 
