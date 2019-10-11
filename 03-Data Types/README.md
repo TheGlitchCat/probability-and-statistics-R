@@ -67,6 +67,19 @@ Los datos atípicos son aquellos valores que están separados de la agrupación 
 
 ![outlier](https://baldscientist.files.wordpress.com/2013/02/outliers1.jpg)
 
-
-
+## Form / Forma
+### Kurtosis / Curtosis
+#### English
+It show us how our data are distributed 
+- Leptokurtic - Slender (x > 0)
+- Mesokurtic - Normal (x=0 ± 0.5)
+- Platykurtic - Broad (x < 0)
+#### Español
+Nos muestra como nuestra data esta agrupada o distribuida
+- Leptocúrtica - Estrecha (x > 0)
+- Mesocúrtica - Normal (x=0 ± 0.5)
+- Platicírtica - Extendida / alargada (x < 0)
+  
+![kurtosis](https://miro.medium.com/max/742/1*Nqu07THa7APRTOF7kaVr5Q.jpeg)
+![Example-kurtosis](Iris&#32;sepal&#32;length&#32;distribution.png)
 

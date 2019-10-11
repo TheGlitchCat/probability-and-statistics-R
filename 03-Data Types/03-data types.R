@@ -50,7 +50,17 @@ outlier = boxplot(vector1)$out # Take the outliers inside the vector1
 outlier
 
 
+# Kurtosis
+library(moments)
+kurtosis(iris$Sepal.Length) 
+# Result is 2.426432 which indicates that iris sepal length distribution is leptokurtic
 
-
+# we can plot data with hist and see how our data are distributed 
+hist(iris$Sepal.Length, prob=TRUE, col="gray", 
+     main="Sepal Length (Density)", # Title
+     xlab="Sepal Length (cm)", # X label
+     ylim=c(0.0,0.7)) # y label
+# our density curve
+curve(dnorm(x, mean=mean(iris$Sepal.Length), sd=sd(iris$Sepal.Length)), add=TRUE, col="purple")
 
 
