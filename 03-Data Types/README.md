@@ -45,9 +45,22 @@ Es el valor mas repetido en un conjunto de datos
 
 ## Position / Posición 
 ### Quartiles / Cuartiles
+(see quantiles for more info / para profundizar buscar en cuantiles)
 ![quartile](https://i.stack.imgur.com/L4GEM.png)
 #### English
 Quartiles - split the dataset in 4 equal parts Q1 = 25%, Q2(median) = 50%, Q3 = 75%, and tell us how much of our data lies below a section. 
-### Español
+#### Español
 Separa el conjunto de datos en partes iguales, los cuales se dividen en Q1 = 25%, Q2(Mediana) = 50%, Q3 = 75%, y nos dice como nuestros datos están distribuidos y como estos se encuentran debajo de dichos porcentajes. 
+### Interquartile Range / Rango Intercuartil
+![IQR](https://i2.wp.com/makemeanalyst.com/wp-content/uploads/2017/05/IQR-1.png?resize=431%2C460)
+#### English
+Interquartile range(IQR) also called middle 50%, is a statistical dispersion measure, and is the result of substract between Q3 and Q1 (Q3 - Q1)
+#### Español
+El rango intercuartil es una medida de dispersión en estadística, y es el resultado de la resta entre el Q1 y Q3 (Q3 - Q1)
+### Outlier / Dato Atipico
+![outlier](https://baldscientist.files.wordpress.com/2013/02/outliers1.jpg)
+
+
+
+
 
