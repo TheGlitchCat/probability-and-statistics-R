@@ -52,6 +52,17 @@ py_run_file("script.py")
 - [Link 3](https://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
 
 
+## Help commmand / Comandos de ayuda 
+### Some example  / Algunos ejemplos
+
+```R
+?ggplot2 # ?<pkg/lib name>
+library(help="ggplot2") #library(help="<pgk/lib name>")
+help("read.table")  #help("<pkg/lib name>") 
+example("read.table") # example("<pkg/lib name>")
+vignette("Intro2Matrix") # vignette("<pkg/lib name>")
+```
+
 # References 
 
 | Book | Author(s) |
