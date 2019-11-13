@@ -13,7 +13,7 @@
 ![rstudio](src/Rstudio.PNG)
 
 ## Adding libs or pkg / Instalar paquetes o librerias
-### one / una
+### One / Una
 In console / en la consola
 ```
 install.packages("<pkg/lib name>")
@@ -22,6 +22,26 @@ install.packages("<pkg/lib name>")
 ```
 install.packages(c("<pkg/lib name>", "<pkg/lib name>",...,"<pkg/lib name>"))
 ```
+
+## Easy way to use python into R / La manera facil de usar python en R
+```
+install.packages("reticulate")
+```
+
+```R
+library(reticulate)
+py_run_string("
+x = 10
+y = 11
+def sum(x,y):
+  return x + y
+
+
+print(sum(x,y))
+")
+```
+
+
 
 # References 
 
