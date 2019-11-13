@@ -15,13 +15,13 @@
 ## Adding libs or pkg / Instalar paquetes o librerias
 ### one / una
 In console / en la consola
-'''
-    install.packages("<pkg/lib name>")
-'''
+```
+install.packages("<pkg/lib name>")
+```
 ### Multiple / Varias
-'''
-    install.packages(c("<pkg/lib name>", "<pkg/lib name>",...,"<pkg/lib name>"))
-'''
+```
+install.packages(c("<pkg/lib name>", "<pkg/lib name>",...,"<pkg/lib name>"))
+```
 
 # References 
 
