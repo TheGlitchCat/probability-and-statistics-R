@@ -93,6 +93,36 @@ Inf                 #infinity / infinito
 - [Link 3](https://www.statmethods.net/input/datatypes.html)
 - [Link 4 (Español)](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
 
+
+## PLOT / Graficos
+### Bars / Barras
+```R
+H <- c(7,12,28,3,41)
+png(file = "barchart.png") 
+barplot(H, xlab="Data", main="Bars example", col="blue")
+dev.off() #save file
+```
+![Bars](src/barchart.png)
+
+### Line / Lineas
+```R
+v <- c(7,12,28,3,41)
+png(file = "line.jpg") 
+plot(v,type = "o") # types p=points l=lines o=both / tipos p=puntos l=lineas o=ambos
+dev.off() #save file
+```
+![Line](src/line.jpg)
+
+### Pie 
+```R
+x <- c(21, 62, 10, 53)
+labels <- c("Chicago", "Dubai", "Tokio", "Moscow")
+png(file = "cites.jpg")
+pie(x,labels)
+dev.off() #save the file
+```
+![Pie](src/cites.jpg)
+
 # References 
 
 | Book | Author(s) |
