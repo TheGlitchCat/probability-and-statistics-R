@@ -89,7 +89,9 @@ Inf                 #infinity / infinito
 ```
 ### for more info / para más información
 - [Link 1](https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/#:~:targetText=Key%20Points,%2C%20data%20frame%2C%20and%20factors.)
-
+- [Link 2](https://www.tutorialspoint.com/r/r_data_types.htm)
+- [Link 3](https://www.statmethods.net/input/datatypes.html)
+- [Link 4 (Español)](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
 
 # References 
 
