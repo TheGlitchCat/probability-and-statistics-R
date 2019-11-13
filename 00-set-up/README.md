@@ -23,7 +23,7 @@
 ### Linux
 
 #### English
-- Follow this [video](https://linuxconfig.org/rstudio-on-ubuntu-18-04-bionic-beaver-linux)
+- Follow this [video](https://www.youtube.com/watch?v=tll0-VrNA_E&t=69s)
 - step to step [page](https://linuxconfig.org/rstudio-on-ubuntu-18-04-bionic-beaver-linux)
 
 #### Español
