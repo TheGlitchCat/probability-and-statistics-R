@@ -132,7 +132,7 @@ png(file = "histogram.png")
 hist(v,xlab = "Weight",col = "yellow",border = "blue")
 dev.off()
 ```
-![Histogram](src/hitogram.png)
+![Histogram](src/histogram.png)
 
 ### Boxplot / Diagrama de cajas
 ```R
