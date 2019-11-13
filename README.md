@@ -95,6 +95,8 @@ Inf                 #infinity / infinito
 
 
 ## PLOT / Graficos
+- [Tutorial](https://www.tutorialspoint.com/r/r_bar_charts.htm)
+
 ### Bars / Barras
 ```R
 H <- c(7,12,28,3,41)
@@ -122,6 +124,30 @@ pie(x,labels)
 dev.off() #save the file
 ```
 ![Pie](src/cites.jpg)
+
+### Histogram / Histograma
+```R
+v <-  c(9,13,21,8,36,22,12,41,31,33,19)
+png(file = "histogram.png")
+hist(v,xlab = "Weight",col = "yellow",border = "blue")
+dev.off()
+```
+![Histogram](src/hitogram.png)
+
+### Boxplot / Diagrama de cajas
+```R
+input <- mtcars[,c('mpg','cyl')]
+png(file = "boxplot.png")
+boxplot(mpg ~ cyl, data = mtcars, xlab = "Number of Cylinders",
+        ylab = "Miles Per Gallon", main = "Mileage Data")
+dev.off()
+```
+![Boxplot](src/boxplot.png)
+
+### Pareto / Diagrama de pareto 
+- [Link 1](https://rstudio-pubs-static.s3.amazonaws.com/72023_670962b57f444c04999fd1a0a393e113.html)
+- [Link 2](https://nhsrcommunity.com/blog/pareto-chart-in-ggplot2/)
+
 
 # References 
 
