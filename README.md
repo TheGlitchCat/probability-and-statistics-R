@@ -41,6 +41,15 @@ print(sum(x,y))
 ")
 ```
 
+```R
+library(reticulate)
+py_run_file("script.py")
+```
+
+### for more info / para mas informacion
+- [l¿Link 1](https://cran.r-project.org/web/packages/reticulate/vignettes/calling_python.html)
+- [Link 2](http://rstudio-pubs-static.s3.amazonaws.com/407460_396f867ce3494d479fd700960879e22c.html)
+- [Link 3](https://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
 
 
 # References 
