@@ -63,6 +63,28 @@ example("read.table") # example("<pkg/lib name>")
 vignette("Intro2Matrix") # vignette("<pkg/lib name>")
 ```
 
+## R Basics / R Basico
+```R
+# types / tipos
+x <- "a"            #character: "a", "string" / letra o cadena de letras
+x <- 2              #numeric: 3, 100.5 / numerico
+x <- 3L             #integer: 2L (L makes R store this as an int) / entero
+x <- 1+3i           #complex: 1+4i (complex numbers with real and imaginary parts) / complejo
+x <- TRUE           #logical: TRUE, FALSE / logico
+
+# vectors / vectores 
+vector()            #empty vector / vector vacio
+x <- c("a", "b")    #vector with a and b / vector con a y b
+character(5)        #empty vector of character / vector vacio de letras
+numeric(5)          #empty vector of numeric / vector vacio de numeros
+logical(5)          #vector of bool (default=FALSE) / vector vacio de booleanos (por defecto = FALSE)
+
+# secuences / secuencias
+x <- 1:10           #secuence from 1 to 10 / secuencia del 1 al 10
+x <- seq(from=1, to= 10, by=1) #secuence function from=start to=end by=step by step / funcion de secuencia from=inicio to=fin by=paso a paso
+
+```
+
 # References 
 
 | Book | Author(s) |
