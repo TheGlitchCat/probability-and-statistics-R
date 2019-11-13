@@ -46,7 +46,7 @@ library(reticulate)
 py_run_file("script.py")
 ```
 
-### for more info / para mas informacion
+### for more info / para más informacion
 - [Link 1](https://cran.r-project.org/web/packages/reticulate/vignettes/calling_python.html)
 - [Link 2](http://rstudio-pubs-static.s3.amazonaws.com/407460_396f867ce3494d479fd700960879e22c.html)
 - [Link 3](https://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
@@ -83,7 +83,13 @@ logical(5)          #vector of bool (default=FALSE) / vector vacio de booleanos 
 x <- 1:10           #secuence from 1 to 10 / secuencia del 1 al 10
 x <- seq(from=1, to= 10, by=1) #secuence function from=start to=end by=step by step / funcion de secuencia from=inicio to=fin by=paso a paso
 
+# special values / valores especiales
+NaN                 #Not a number / no un numero
+Inf                 #infinity / infinito 
 ```
+### for more info / para más información
+- [Link 1](https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/#:~:targetText=Key%20Points,%2C%20data%20frame%2C%20and%20factors.)
+
 
 # References 
 
