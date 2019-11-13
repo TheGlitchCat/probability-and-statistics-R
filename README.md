@@ -12,6 +12,16 @@
 ## Environmnet / Entorno
 ![rstudio](src/Rstudio.PNG)
 
+## Adding libs or pkg / Instalar paquetes o librerias
+### one / una
+In console / en la consola
+´´´R
+    install.packages("<pkg/lib name>")
+´´´
+### Multiple / Varias
+´´´R
+    install.packages(c("<pkg/lib name>", "<pkg/lib name>",...,"<pkg/lib name>"))
+´´´
 
 # References 
 
