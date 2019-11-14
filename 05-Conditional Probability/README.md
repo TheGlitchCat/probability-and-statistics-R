@@ -68,3 +68,10 @@ No enfermas 9800 (98%) = P(D')
 - P(D|P') = 20 / 8840 = 0.0022
 - P(D'|P') = 8820 / 8840 = 0.9977
   
+
+### References / Referencias
+- [Link 1](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+- [Link 2](https://en.wikipedia.org/wiki/Contingency_table#:~:targetText=In%20statistics%2C%20a%20contingency%20table,intelligence%2C%20engineering%20and%20scientific%20research.)
+- [Link 3 (Español)](http://halweb.uc3m.es/esp/Personal/personas/icascos/esp/resumen_probabilidad.pdf)
+- [Link 4 (Español)](https://www.youtube.com/watch?v=pI29EcNFtGs)
+- [Link 5 (Español)](https://es.wikipedia.org/wiki/Tabla_de_contingencia) 
