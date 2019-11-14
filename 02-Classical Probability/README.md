@@ -21,9 +21,9 @@ En la literatura se puede encontrar como S, Ω, o U (Conjunto Universal)
 #### Example 1 / Ejemplo 1
 
 | ENGLISH | ESPAÑOL |
-|     Event    |    Sample Space   |    Evento    |  Espacio muestral |
-|:------------:|:-----------------:|:------------:|:-----------------:|
-|Throw a dice  | Ω = {1,2,3,4,5,6} |Lanzar un dado| Ω = {1,2,3,4,5,6} |
+||     Event    |    Sample Space   |||    Evento    |  Espacio muestral ||
+||:------------:|:-----------------:|||:------------:|:-----------------:||
+||Throw a dice  | Ω = {1,2,3,4,5,6} |||Lanzar un dado| Ω = {1,2,3,4,5,6} ||
 
 ![Dice](src/dice.png)
 
