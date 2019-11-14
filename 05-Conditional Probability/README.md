@@ -18,8 +18,7 @@
 
 # Bayes Theorem / Teorema de Bayes
 
-## P(A|B) = P(A∩B) / P(B) 
-## P(B|A) = P(A|B)P(B) / P(A)
+- P(A|B) = P(A∩B) / P(B) 
 
 ![bayes](https://eli.thegreenplace.net/images/2018/bayes-count-disease-2.png)
 
