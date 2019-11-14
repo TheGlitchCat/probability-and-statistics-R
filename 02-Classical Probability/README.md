@@ -2,10 +2,10 @@
 ![Classical probability](https://www.onlinemath4all.com/images/classicalprobability2.png)
 
 ### English
-> It is the concept that measures the probability of something happening or an event into a sample space, and each event has equal odds  
+It is the concept that measures the probability of something happening or an event into a sample space, and each event has equal odds to happen.
 
 ### Español
-
+Es el concepto que mide la probabilidad de que algo suceda o un evento en un espacio muestral, y cada evento tiene la misma probabilidad de suceder.
 
 
 # Sample Space / Espacio Muestral
