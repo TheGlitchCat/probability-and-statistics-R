@@ -16,3 +16,16 @@
 - P(A∩∅) = ∅ 
 - P(A'∪ Ω') = P(A')
 - P(A|B) = P(A∩B) / P(B) (Bayes)
+
+
+# Bayes 
+
+## P(A|B) = P(A∩B) / P(B) (Bayes)
+
+![bayes](https://eli.thegreenplace.net/images/2018/bayes-count-disease-2.png)
+
+### English 
+Probability of A given that B has already occurred 
+
+### Español
+Dado que B sucede la probabilidad de que A suceda
