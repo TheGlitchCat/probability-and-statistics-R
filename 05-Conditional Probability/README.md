@@ -24,8 +24,11 @@
 
 ### English 
 Probability of A given that B has already occurred 
-From img 
+
+From img: 
+
 we have 10000 (100%) persons
+
 With Disease(D) 200 (2%)
 - positive(P) 180 (90%)
 - negative(P') 20 (10%)  
