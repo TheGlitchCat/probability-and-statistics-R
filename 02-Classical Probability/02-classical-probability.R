@@ -4,7 +4,7 @@
 probability <- function(x, vec){
   len <- length(vec)
   count <- length(which(vec==x)) #Amount of x in vec
-  return (stringr::str_interp("P(${x}) = ${count} / ${len} = ${(count / len)}"))
+  return (stringr::str_interp("P(${x}) = ${count} / ${len} = ${(count / len)}")) #String interpolation
 }
 
 # Sample Space
