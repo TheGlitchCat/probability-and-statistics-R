@@ -1,10 +1,22 @@
+
+# x -> the event
+# vec -> sample space
+probability <- function(x, vec){
+  len <- length(vec)
+  count <- length(which(vec==x)) #Amount of x in vec
+  return (str_interp("P(${x}) = ${count} / ${len} = ${(count / len)}"))
+}
+
 # Sample Space
 
 # 1 Cube (Dice Roller) - Six Faces
 S_Cube <- c(1,2,3,4,5,6) # vector of numbers
+probability(1, S_Cube)
+
 
 # 1 Coin flipping - Head or Tail
 S_Coin <- c('Head', 'Tail') # vector of strings
+probability('Head', S_Coin)
 
 # 2 Cubes
 S2_Cube_1 <- c('1,1','1,2','1,3','1,4','1,5','1,6')
@@ -22,3 +34,4 @@ dim(SMatrix) = c(6,6)
 S2Cube = t(SMatrix) # transpose a matrix and save in S2Cube
 
 S2Cube # Print matrix
+probability('1,1', S2Cube)
