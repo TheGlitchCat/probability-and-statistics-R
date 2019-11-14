@@ -24,7 +24,7 @@ En la literatura se puede encontrar como S, Ω, o U (Conjunto Universal)
 |:------------:|:-----------------:|:------------:|:-----------------:|
 |     Event    |    Sample Space   |    Evento    |  Espacio muestral |
 |Throw a dice  | Ω = {1,2,3,4,5,6} |Lanzar un dado| Ω = {1,2,3,4,5,6} |
-
+|P(1) = amount of 1 in Ω / size of Ω   | P(1) = 1/6  | P(1) = cantidad de 1 en Ω / tamaño de Ω| P(1) = 1/6 |
 
 ![Dice](src/dice.png)
 
