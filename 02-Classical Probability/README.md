@@ -31,12 +31,10 @@ En la literatura se puede encontrar como S, Ω, o U (Conjunto Universal)
 
 #### Example 2 / Ejemplo 2
 
-|     Event    |    Sample Space   |
-|:------------:|:-----------------:|
-|Coin Flipping | Ω = {Head, Tail} | 
-
-|    Evento    |  Espacio muestral |
-|:------------:|:-----------------:|
-|Lanzar una moneda| Ω = {Cara, Sello} |
+|   ENGLISH    |                   |    ESPAÑOL   |                      |
+|:------------:|:-----------------:|:------------:|:--------------------:|
+|     Event    |    Sample Space   |    Evento    |   Espacio muestral   | 
+|Coin Flipping | Ω = {Head, Tail}  |Lanzar una moneda| Ω = {Cara, Sello} | 
+|P(H) = amount of Heads in Ω / size of Ω   | P(H) = 1/2  | P(C) = cantidad de Caras en Ω / tamaño de Ω| P(C) = 1/2 |
 
 ![coin](src/coin.jpg)
