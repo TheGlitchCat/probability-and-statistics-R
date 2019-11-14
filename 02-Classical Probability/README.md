@@ -1,3 +1,13 @@
+# Classical Probability / Probabilidad Clasica
+![Classical probability](https://www.onlinemath4all.com/images/classicalprobability2.png)
+
+### English
+> It is the concept that measures the probability of something happening or an event into a sample space, and each event has equal odds  
+
+### Español
+
+
+
 # Sample Space / Espacio Muestral
 
 #### English
