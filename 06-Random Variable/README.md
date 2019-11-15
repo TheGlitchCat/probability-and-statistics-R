@@ -46,8 +46,20 @@ Teniendo en cuenta que:
 
 ### English
 
-Probability distribution is the form we can represent the probabilities of an event
+Probability distribution is the form we can represent the probabilities of an event, and the addition must give always 1 (100%).
 
 ### Español 
 
-La distribución de probabilidad es la forma de representar las probabilidades de un evento
+La distribución de probabilidad es la forma de representar las probabilidades de un evento, y la suma debe dar siempre 1 (100%).
+
+# Density Function / Función de densidad
+
+### English
+
+
+### Español
+
+Es una función que busca hallar la probabilidad acumulada hasta cierto valor y como ésta cambia en diferentes puntos.
+
+𝑃(𝑋 ϵ ℝ)=∫𝑓(𝑥)𝑑𝑥
+
