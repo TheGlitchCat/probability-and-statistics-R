@@ -17,8 +17,17 @@ Hay 2 tipos de variables aleatorias:
 
 ### English
 
+It is a function that assigns at each point of the sample space X = {𝒙𝟎, 𝒙𝟏,…, 𝒙𝒏} a chance that it will happen.
+
+𝑃(𝑥𝑖)=𝑝𝑖
+
+In which 𝑝𝑖 is the probability of 𝑋= 𝑥𝑖 it will happen.
+
+Taking into account that:
+
+![pfunc](https://wikimedia.org/api/rest_v1/media/math/render/svg/0e348c109ba127fc624e3e750fc03f4dee89048b)
+
 ### Español
-Definición (Discreta): 
 
 Es una función que a cada punto del espacio muestral X = {𝒙𝟎, 𝒙𝟏,…, 𝒙𝒏} le asigna una probabilidad de que éste suceda.
 
