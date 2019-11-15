@@ -56,6 +56,14 @@ La distribución de probabilidad es la forma de representar las probabilidades d
 
 ### English
 
+It is a function that seeks to find the accumulated probability up to a certain value and how it changes at different points.
+
+![density](https://wikimedia.org/api/rest_v1/media/math/render/svg/b88a30fa1292a22a753983e36882576f604e1314)
+
+In which X is a continuous non-negative variable, to which:
+
+![density2](https://wikimedia.org/api/rest_v1/media/math/render/svg/7d7da5c706793719911814ea9881bcdaaeed014d)
+
 
 ### Español
 
@@ -63,7 +71,16 @@ Es una función que busca hallar la probabilidad acumulada hasta cierto valor y 
 
 ![density](https://wikimedia.org/api/rest_v1/media/math/render/svg/b88a30fa1292a22a753983e36882576f604e1314)
 
-En la cual X es una variable continua no negativa, a la cual
+En la cual X es una variable continua no negativa, a la cual:
 
 ![density2](https://wikimedia.org/api/rest_v1/media/math/render/svg/7d7da5c706793719911814ea9881bcdaaeed014d)
 
+
+
+
+
+
+# References / Referencias
+- [Link 1](https://rpubs.com/jcross/discreteRV)
+- [Link 2](https://www.econometrics-with-r.org/2-1-random-variables-and-probability-distributions.html)
+- [Link 3](https://www.rdocumentation.org/packages/stats/versions/3.6.1/topics/density)

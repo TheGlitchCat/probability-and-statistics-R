@@ -10,4 +10,15 @@ plot(probability,
      xlab = "outcomes") 
 
 
+cumulative_probability <- cumsum(probability) 
+
+# plot the probabilites 
+plot(cumulative_probability, 
+     xlab = "outcomes", 
+     main = "Cumulative Probability Distribution") 
+
+
 # Density Function
+
+plot(density(c(-20, rep(0,98), 20)), xlim = c(-4, 4), main="Density Function")  # IQR = 0
+
