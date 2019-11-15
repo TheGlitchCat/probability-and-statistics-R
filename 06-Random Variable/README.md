@@ -20,8 +20,12 @@ Hay 2 tipos de variables aleatorias:
 ### Español
 Definición (Discreta): 
 
-Es una función que a cada punto del espacio muestral X = {𝒙_𝟎, 𝒙_𝟏,…, 𝒙_𝒏} le asigna una probabilidad de que éste suceda.
-𝑃(𝑥_𝑖 )=𝑝_𝑖
-En la cual 𝑝_𝑖 es la probabilidad de que 𝑋= 𝑥_𝑖 suceda.
+Es una función que a cada punto del espacio muestral X = {𝒙𝟎, 𝒙𝟏,…, 𝒙𝒏} le asigna una probabilidad de que éste suceda.
+
+𝑃(𝑥𝑖)=𝑝𝑖
+
+En la cual 𝑝𝑖 es la probabilidad de que 𝑋= 𝑥𝑖 suceda.
+
 Teniendo en cuenta que:
-∑_(𝑖=1)^𝑛▒〖𝑃(𝑥_𝑖 )=1〗
+
+![pfunc](https://wikimedia.org/api/rest_v1/media/math/render/svg/0e348c109ba127fc624e3e750fc03f4dee89048b)
