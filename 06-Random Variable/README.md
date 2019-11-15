@@ -38,3 +38,16 @@ En la cual 𝑝𝑖 es la probabilidad de que 𝑋= 𝑥𝑖 suceda.
 Teniendo en cuenta que:
 
 ![pfunc](https://wikimedia.org/api/rest_v1/media/math/render/svg/0e348c109ba127fc624e3e750fc03f4dee89048b)
+
+## Probability Distribution / Distribución de Probabilidades
+
+### Roll a dice / Lanzar un dado
+![distribution](src/Distribution.png)
+
+### English
+
+Probability distribution is the form we can represent the probabilities of an event
+
+### Español 
+
+La distribución de probabilidad es la forma de representar las probabilidades de un evento
