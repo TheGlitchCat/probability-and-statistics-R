@@ -76,7 +76,7 @@ En la cual X es una variable continua no negativa, a la cual:
 ![density2](https://wikimedia.org/api/rest_v1/media/math/render/svg/7d7da5c706793719911814ea9881bcdaaeed014d)
 
 
-
+![desity3](src/Density.png)
 
 
 
