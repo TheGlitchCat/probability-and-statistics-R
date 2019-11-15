@@ -61,5 +61,9 @@ La distribución de probabilidad es la forma de representar las probabilidades d
 
 Es una función que busca hallar la probabilidad acumulada hasta cierto valor y como ésta cambia en diferentes puntos.
 
-𝑃(𝑋 ϵ ℝ)=∫𝑓(𝑥)𝑑𝑥
+![density](https://wikimedia.org/api/rest_v1/media/math/render/svg/b88a30fa1292a22a753983e36882576f604e1314)
+
+En la cual X es una variable continua no negativa, a la cual
+
+![density2](https://wikimedia.org/api/rest_v1/media/math/render/svg/7d7da5c706793719911814ea9881bcdaaeed014d)
 
