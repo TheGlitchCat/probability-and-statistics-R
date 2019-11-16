@@ -79,6 +79,20 @@ En la cual X es una variable continua no negativa, a la cual:
 ![desity3](src/Density.png)
 
 
+# Binomial Distribution / Distribución Binomial
+
+![binom](https://www.onlinemathlearning.com/image-files/xbinomial-distribution-formula.png.pagespeed.ic.82Np1Wmmm6.png)
+
+### English
+the binomial distribution with parameters n and p is the discrete probability distribution of the number of successes in a sequence of n independent experiments, each asking a yes–no question, and each with its own boolean-valued outcome: success/yes/true/one (with probability p) or failure/no/false/zero (with probability q = 1 − p). A single success/failure experiment is also called a Bernoulli trial or Bernoulli experiment and a sequence of outcomes is called a Bernoulli process; for a single trial, i.e., n = 1, the binomial distribution is a Bernoulli distribution. The binomial distribution is the basis for the popular binomial test of statistical significance.
+
+The binomial distribution is frequently used to model the number of successes in a sample of size n drawn with replacement from a population of size N. If the sampling is carried out without replacement, the draws are not independent and so the resulting distribution is a hypergeometric distribution, not a binomial one. However, for N much larger than n, the binomial distribution remains a good approximation, and is widely used. [Wikipedia](https://en.wikipedia.org/wiki/Binomial_distribution)
+
+### Español
+la distribución binomial es una distribución de probabilidad discreta que cuenta el número de éxitos en una secuencia de n ensayos de Bernoulli independientes entre sí, con una probabilidad fija p de ocurrencia del éxito entre los ensayos. Un experimento de Bernoulli se caracteriza por ser dicotómico, esto es, solo dos resultados son posibles. A uno de estos se denomina «éxito» y tiene una probabilidad de ocurrencia p y al otro, «fracaso», con una probabilidad2​ q = 1 - p. En la distribución binomial el anterior experimento se repite n veces, de forma independiente, y se trata de calcular la probabilidad de un determinado número de éxitos. Para n = 1, la binomial se convierte, de hecho, en una distribución de Bernoulli. [Wikipedia](https://es.wikipedia.org/wiki/Distribuci%C3%B3n_binomial)
+
+
+![binom2](src/binom.png)
 
 # References / Referencias
 - [Link 1](https://rpubs.com/jcross/discreteRV)
