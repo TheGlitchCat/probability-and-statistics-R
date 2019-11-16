@@ -100,11 +100,11 @@ En la cual X es una variable continua no negativa, a la cual:
 ![poisson](https://www.onlinemathlearning.com/image-files/xpoisson-distribution-formula.png.pagespeed.ic.s5RE-oEm0q.png)
 
 ### English
-
+> the Poisson distribution (French pronunciation: ​[pwasɔ̃]; in English often rendered /ˈpwɑːsɒn/), named after French mathematician Siméon Denis Poisson, is a discrete probability distribution that expresses the probability of a given number of events occurring in a fixed interval of time or space if these events occur with a known constant rate and independently of the time since the last event.[1] The Poisson distribution can also be used for the number of events in other specified intervals such as distance, area or volume. [Wikipedia](https://en.wikipedia.org/wiki/Poisson_distribution)
 
 
 ### Español
-
+> la distribución de Poisson es una distribución de probabilidad discreta que expresa, a partir de una frecuencia de ocurrencia media, la probabilidad de que ocurra un determinado número de eventos durante cierto período de tiempo. Concretamente, se especializa en la probabilidad de ocurrencia de sucesos con probabilidades muy pequeñas, o sucesos "raros". [Wikipedia](https://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_Poisson)
 
 
 # References / Referencias
