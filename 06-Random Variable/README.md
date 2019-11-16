@@ -111,3 +111,4 @@ En la cual X es una variable continua no negativa, a la cual:
 - [Link 1](https://rpubs.com/jcross/discreteRV)
 - [Link 2](https://www.econometrics-with-r.org/2-1-random-variables-and-probability-distributions.html)
 - [Link 3](https://www.rdocumentation.org/packages/stats/versions/3.6.1/topics/density)
+- [Link 4](https://www.econometrics-with-r.org/2-1-random-variables-and-probability-distributions.html)
