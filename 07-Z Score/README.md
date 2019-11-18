@@ -24,5 +24,5 @@ Un valor Z positivo(+) indica que el valor observado de x esta por encima de la 
 
 
 # References / Referencias 
-- [Link 1](https://stats.seandolinar.com/calculating-z-scores-with-r/)
-- [Link 2 (Español)](https://support.minitab.com/es-mx/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/tests-of-means/what-is-a-z-value/#:~:targetText=El%20valor%20Z%20es%20un,desviaci%C3%B3n%20est%C3%A1ndar%20de%201%20cm.)
+- [Link 1 - stats.seandolinar.com](https://stats.seandolinar.com/calculating-z-scores-with-r/)
+- [Link 2 (Español) - support.minitab.com](https://support.minitab.com/es-mx/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/tests-of-means/what-is-a-z-value/#:~:targetText=El%20valor%20Z%20es%20un,desviaci%C3%B3n%20est%C3%A1ndar%20de%201%20cm.)
