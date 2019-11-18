@@ -7,12 +7,22 @@
 ### English
 - The null hypothesis of these tests is that the data is normally distributed
 - The alternative hypothesis is that the data is not normally distributed
-- The test rejects the hypothesis of normality when the p-value is less than 0.05 or 5%
+- The test rejects the hypothesis of normality when the p-value is less than 0.05(5%)
 - If the p-value is greater than 0.05 (5%), a normal distribution may be assumed
 
+### Español
+- La hipótesis nula es que la data tiene una distribución normal
+- La hipótesis alternativa es que la data no tiene una distribución normal
+- Le prueba rechaza la hipótesis de normalidad cuando el p-value es menor a 0.05 (5%)
+- Si el p-value es mayor a 0.05(5%) se debe asumir quehay una distribución normal
 
+## Variance Tests / Prueba de Varianzas
 
+### English
+> Levene's test is an inferential statistic used to assess the equality of variances for a variable calculated for two or more groups. Some common statistical procedures assume that variances of the populations from which different samples are drawn are equal. Levene's test assesses this assumption. It tests the null hypothesis that the population variances are equal (called homogeneity of variance or homoscedasticity). If the resulting p-value of Levene's test is less than some significance level (typically 0.05), the obtained differences in sample variances are unlikely to have occurred based on random sampling from a population with equal variances. Thus, the null hypothesis of equal variances is rejected and it is concluded that there is a difference between the variances in the population. [Wikipedia](https://en.wikipedia.org/wiki/Levene%27s_test)
 
+### Español
+> la prueba de Levene​ es una prueba estadística inferencial utilizada para evaluar la igualdad de las varianzas para una variable calculada para dos o más grupos. Algunos procedimientos estadísticos comunes asumen que las varianzas de las poblaciones de las que se extraen diferentes muestras son iguales. La prueba de Levene evalúa este supuesto. Se pone a prueba la hipótesis nula de que las varianzas poblacionales son iguales (llamado homogeneidad de varianza ú homocedasticidad). Si el P-valor resultante de la prueba de Levene es inferior a un cierto nivel de significación (típicamente 0.05), es poco probable que las diferencias obtenidas en las variaciones de la muestra se hayan producido sobre la base de un muestreo aleatorio de una población con varianzas iguales. Por lo tanto, la hipótesis nula de igualdad de varianzas se rechaza y se concluye que hay una diferencia entre las variaciones en la población.
 
 
 
@@ -20,3 +30,5 @@
 - [Link 1](https://www.youtube.com/watch?v=UJmd_Uzsltw)
 - [Link 2](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/ks.test.html)
 - [Link 3 (Español)](https://www.youtube.com/watch?v=LidUd_D727A)
+- [Link 4](https://www.youtube.com/watch?v=Zo8Z9osPFTE)
+- 

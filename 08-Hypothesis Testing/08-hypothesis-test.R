@@ -22,3 +22,14 @@ plot(ecdf(x2), add = TRUE, lty = "dashed")
 t.test(x, x2, alternative = "g")
 wilcox.test(x, x2, alternative = "g")
 ks.test(x, x2, alternative = "l")
+
+
+# Variance levene test
+
+library(car)
+# Levene's test with one independent variable
+leveneTest(weight ~ group, data = PlantGrowth)}
+
+
+
+
