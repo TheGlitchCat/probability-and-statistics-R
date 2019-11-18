@@ -10,6 +10,7 @@
 - [5. Conditional Probability / Probabilidad Condicional](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/05-Conditional%20Probability)
 - [6. Random Variable / Variable Aleatoria](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/06-Random%20Variable)
 - [7. Z Score / Valor Z](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/07-Z%20Score)
+- [8. Hypothesis Testing / Pruebas de Hipótesis](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/08-Hypothesis%20Testing)
 
 ## Environmnet / Entorno
 ![rstudio](src/Rstudio.PNG)
@@ -49,9 +50,9 @@ py_run_file("script.py")
 ```
 
 ### for more info / para más informacion
-- [Link 1](https://cran.r-project.org/web/packages/reticulate/vignettes/calling_python.html)
-- [Link 2](http://rstudio-pubs-static.s3.amazonaws.com/407460_396f867ce3494d479fd700960879e22c.html)
-- [Link 3](https://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
+- [Link 1 - cran.r-project.org](https://cran.r-project.org/web/packages/reticulate/vignettes/calling_python.html)
+- [Link 2 - rstudio-pubs-static.s3.amazonaws.com](http://rstudio-pubs-static.s3.amazonaws.com/407460_396f867ce3494d479fd700960879e22c.html)
+- [Link 3 - blog.rstudio.com](https://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
 
 
 ## Help commmand / Comandos de ayuda 
@@ -90,10 +91,10 @@ NaN                 #Not a number / no un numero
 Inf                 #infinity / infinito 
 ```
 ### for more info / para más información
-- [Link 1](https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/#:~:targetText=Key%20Points,%2C%20data%20frame%2C%20and%20factors.)
-- [Link 2](https://www.tutorialspoint.com/r/r_data_types.htm)
-- [Link 3](https://www.statmethods.net/input/datatypes.html)
-- [Link 4 (Español)](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
+- [Link 1 - swcarpentry.github.io](https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/#:~:targetText=Key%20Points,%2C%20data%20frame%2C%20and%20factors.)
+- [Link 2 - tutorialspoint](https://www.tutorialspoint.com/r/r_data_types.htm)
+- [Link 3 - statmethods](https://www.statmethods.net/input/datatypes.html)
+- [Link 4 (Español) - cran.r-project.org](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
 
 
 ## PLOT / Graficos
