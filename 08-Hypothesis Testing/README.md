@@ -1,5 +1,8 @@
 # Hypothesis Testing / Pruebas de Hipótesis
 
+![hypothesis](https://learningstatisticswithr.com/book/lsr_files/figure-html/ttesthyp-1.png)
+
+
 ## Confidence Interval / Intervalo de Confianza
 
 ![intervalconficence](https://qph.fs.quoracdn.net/main-qimg-fb825a5584d571ed78ef869a50793a83.webp)
@@ -10,7 +13,6 @@
 ### Español
 > se llama intervalo de confianza a un par o varios pares de números entre los cuales se estima que estará cierto valor desconocido con una determinada probabilidad de acierto. Formalmente, estos números determinan un intervalo, que se calcula a partir de datos de una muestra, y el valor desconocido es un parámetro poblacional. La probabilidad de éxito en la estimación se representa con 1 - α y se denomina nivel de confianza. En estas circunstancias, α es el llamado error aleatorio o nivel de significación, esto es, una medida de las posibilidades de fallar en la estimación mediante tal intervalo [Wikipedia](https://es.wikipedia.org/wiki/Intervalo_de_confianza)
 
-![hypothesis](https://learningstatisticswithr.com/book/lsr_files/figure-html/ttesthyp-1.png)
 
 ## Tests of Normality / Prueba de Normalidad
 
