@@ -43,5 +43,14 @@ library(car)
 leveneTest(weight ~ group, data = PlantGrowth)
 
 
+# T tests
+x = rnorm(20)
+y = rnorm(20)
+
+# One Sample
+t.test(x, mu= 5)
+
+# Multiple
+t.test(x,y)
 
 

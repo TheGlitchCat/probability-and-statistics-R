@@ -38,15 +38,22 @@
 ### Español
 > la prueba de Levene​ es una prueba estadística inferencial utilizada para evaluar la igualdad de las varianzas para una variable calculada para dos o más grupos. Algunos procedimientos estadísticos comunes asumen que las varianzas de las poblaciones de las que se extraen diferentes muestras son iguales. La prueba de Levene evalúa este supuesto. Se pone a prueba la hipótesis nula de que las varianzas poblacionales son iguales (llamado homogeneidad de varianza ú homocedasticidad). Si el P-valor resultante de la prueba de Levene es inferior a un cierto nivel de significación (típicamente 0.05), es poco probable que las diferencias obtenidas en las variaciones de la muestra se hayan producido sobre la base de un muestreo aleatorio de una población con varianzas iguales. Por lo tanto, la hipótesis nula de igualdad de varianzas se rechaza y se concluye que hay una diferencia entre las variaciones en la población. [Wikipedia](https://es.wikipedia.org/wiki/Prueba_de_Levene)
 
-## T Test / Prueba T
+## T Test / Prueba T de Student
 
 ![ttest](https://www.statisticshowto.datasciencecentral.com/wp-content/uploads/2013/12/students-normal.gif)
 
+### English
+> A t-test is most commonly applied when the test statistic would follow a normal distribution if the value of a scaling term in the test statistic were known. When the scaling term is unknown and is replaced by an estimate based on the data, the test statistics (under certain conditions) follow a Student's t distribution. The t-test can be used, for example, to determine if the means of two sets of data are significantly different from each other. [Wikipedia](https://en.wikipedia.org/wiki/Student%27s_t-test)
 
+### Español
+> una prueba t de Student, prueba t de estudiante, o Test-T es cualquier prueba en la que el estadístico utilizado tiene una distribución t de Student si la hipótesis nula es cierta. Se aplica cuando la población estudiada sigue una distribución normal pero el tamaño muestral es demasiado pequeño como para que el estadístico en el que está basada la inferencia esté normalmente distribuido, utilizándose una estimación de la desviación típica en lugar del valor real. Es utilizado en análisis discriminante. [Wikipedia](https://es.wikipedia.org/wiki/Prueba_t_de_Student)
 
 # References / Referencias 
 - [Link 1](https://www.youtube.com/watch?v=UJmd_Uzsltw)
 - [Link 2](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/ks.test.html)
 - [Link 3 (Español)](https://www.youtube.com/watch?v=LidUd_D727A)
 - [Link 4](https://www.youtube.com/watch?v=Zo8Z9osPFTE)
-- 
+- [Link 5](https://data-flair.training/blogs/hypothesis-testing-in-r/)
+- [Link 6](https://www.andrew.cmu.edu/user/achoulde/94842/lectures/lecture07/lecture07-94842.html)
+- [Link 7](https://www.cyclismo.org/tutorial/R/confidence.html)
+- [Link 8](https://statistics.berkeley.edu/computing/r-t-tests)
