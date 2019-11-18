@@ -54,3 +54,35 @@ t.test(x, mu= 5)
 t.test(x,y)
 
 
+# ANOVA https://www.guru99.com/r-anova-tutorial.html
+
+#install.packages("dplyr")
+library(dplyr)
+PATH <- "https://raw.githubusercontent.com/guru99-edu/R-Programming/master/poisons.csv"
+df <- read.csv(PATH) %>%
+  select(-X) %>% 
+  mutate(poison = factor(poison, ordered = TRUE))
+glimpse(df)
+levels(df$poison)
+
+ggplot(df, aes(x = poison, y = time, fill = poison)) +
+  geom_boxplot() +
+  geom_jitter(shape = 15,
+              color = "steelblue",
+              position = position_jitter(0.21)) +
+  theme_classic()
+
+anova_one_way <- aov(time~poison, data = df)
+summary(anova_one_way)
+
+# Chi Square
+# http://www.r-tutor.com/elementary-statistics/goodness-fit/chi-squared-test-independence
+
+library(MASS)
+tbl = table(survey$Smoke, survey$Exer)
+tbl
+chisq.test(tbl)
+ctbl = cbind(tbl[,"Freq"], tbl[,"None"] + tbl[,"Some"]) 
+ctbl 
+chisq.test(ctbl)
+

@@ -48,6 +48,24 @@
 ### Español
 > una prueba t de Student, prueba t de estudiante, o Test-T es cualquier prueba en la que el estadístico utilizado tiene una distribución t de Student si la hipótesis nula es cierta. Se aplica cuando la población estudiada sigue una distribución normal pero el tamaño muestral es demasiado pequeño como para que el estadístico en el que está basada la inferencia esté normalmente distribuido, utilizándose una estimación de la desviación típica en lugar del valor real. Es utilizado en análisis discriminante. [Wikipedia](https://es.wikipedia.org/wiki/Prueba_t_de_Student)
 
+## ANOVA 
+
+### English
+An ANOVA test is a way to find out if experiment results are significant. In other words, they help you to figure out if you need to reject the null hypothesis or accept the alternate hypothesis. Basically, you’re testing groups to see if there’s a difference between them. 
+
+### Español
+Una prueba ANOVA es la forma de encontrar si los resultados de un experimento son significantes, en otras palabras, ellos ayudan a determinar si necesitas rechazar la hipótesis nula o aceptar la hipótesis alternativa, basicamente, se prueban grupos para ver si hay diferencia entre ellos.
+
+## Chi Square / Chi Cuadrado
+
+![chi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUADJUbJS8Wj46xNtMDSBzvmJyRjj5VwIPs8xVX1J5_vSTP_O&s)
+
+### English
+A chi-squared test, is any statistical hypothesis test where the sampling distribution of the test statistic is a chi-squared distribution when the null hypothesis is true. Without other qualification, 'chi-squared test' often is used as short for Pearson's chi-squared test. The chi-squared test is used to determine whether there is a significant difference between the expected frequencies and the observed frequencies in one or more categories. [Wikipedia](https://en.wikipedia.org/wiki/Chi-squared_test)
+
+### Español
+La prueba de chi cuadrado se usa para determinar si hay una diferencia significativa entre las frecuencias esperadas y las frecuencias observadas en una o más categorías
+
 # References / Referencias 
 - [Link 1](https://www.youtube.com/watch?v=UJmd_Uzsltw)
 - [Link 2](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/ks.test.html)
@@ -57,3 +75,4 @@
 - [Link 6](https://www.andrew.cmu.edu/user/achoulde/94842/lectures/lecture07/lecture07-94842.html)
 - [Link 7](https://www.cyclismo.org/tutorial/R/confidence.html)
 - [Link 8](https://statistics.berkeley.edu/computing/r-t-tests)
+- [Link 9](http://www.r-tutor.com/elementary-statistics/goodness-fit/chi-squared-test-independence)
