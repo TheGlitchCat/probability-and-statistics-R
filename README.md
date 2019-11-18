@@ -148,8 +148,8 @@ dev.off()
 ![Boxplot](src/boxplot.png)
 
 ### Pareto / Diagrama de pareto 
-- [Link 1](https://rstudio-pubs-static.s3.amazonaws.com/72023_670962b57f444c04999fd1a0a393e113.html)
-- [Link 2](https://nhsrcommunity.com/blog/pareto-chart-in-ggplot2/)
+- [Link 1 - Rstudio pubs static](https://rstudio-pubs-static.s3.amazonaws.com/72023_670962b57f444c04999fd1a0a393e113.html)
+- [Link 2 - Pareto chart inggplot2](https://nhsrcommunity.com/blog/pareto-chart-in-ggplot2/)
 
 
 # References 
