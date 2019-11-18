@@ -67,12 +67,12 @@ A chi-squared test, is any statistical hypothesis test where the sampling distri
 La prueba de chi cuadrado se usa para determinar si hay una diferencia significativa entre las frecuencias esperadas y las frecuencias observadas en una o más categorías
 
 # References / Referencias 
-- [Link 1](https://www.youtube.com/watch?v=UJmd_Uzsltw)
-- [Link 2](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/ks.test.html)
-- [Link 3 (Español)](https://www.youtube.com/watch?v=LidUd_D727A)
-- [Link 4](https://www.youtube.com/watch?v=Zo8Z9osPFTE)
-- [Link 5](https://data-flair.training/blogs/hypothesis-testing-in-r/)
-- [Link 6](https://www.andrew.cmu.edu/user/achoulde/94842/lectures/lecture07/lecture07-94842.html)
-- [Link 7](https://www.cyclismo.org/tutorial/R/confidence.html)
-- [Link 8](https://statistics.berkeley.edu/computing/r-t-tests)
-- [Link 9](http://www.r-tutor.com/elementary-statistics/goodness-fit/chi-squared-test-independence)
+- [Link 1 - Hypothesis Tests for Normality](https://www.youtube.com/watch?v=UJmd_Uzsltw)
+- [Link 2 - ks.test](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/ks.test.html)
+- [Link 3 (Español) - Normalidad 2 (Shapiro-Wilk test & KS test)](https://www.youtube.com/watch?v=LidUd_D727A)
+- [Link 4 -  Levene's Test for homogeneity of variances](https://www.youtube.com/watch?v=Zo8Z9osPFTE)
+- [Link 5 - Hypothesis testing in R](https://data-flair.training/blogs/hypothesis-testing-in-r/)
+- [Link 6 - www.andrew.cmu.edu](https://www.andrew.cmu.edu/user/achoulde/94842/lectures/lecture07/lecture07-94842.html)
+- [Link 7 - Confidence Interval](https://www.cyclismo.org/tutorial/R/confidence.html)
+- [Link 8 - R t-tests](https://statistics.berkeley.edu/computing/r-t-tests)
+- [Link 9- Chi squared test independence](http://www.r-tutor.com/elementary-statistics/goodness-fit/chi-squared-test-independence)
