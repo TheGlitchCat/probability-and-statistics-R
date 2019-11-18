@@ -1,4 +1,16 @@
 
+# Confidence Interval
+
+a <- 5 # Mean
+s <- 2 # Standard Deviation
+n <- 20 # Sample size 
+error <- qnorm(0.975)*s/sqrt(n) # Error at 95%
+left <- a-error
+right <- a+error
+right
+left
+
+
 # Shapiro wilk tests
 shapiro.test(rnorm(100, mean = 5, sd = 3))
 shapiro.test(runif(100, min = 2, max = 4))
@@ -28,7 +40,7 @@ ks.test(x, x2, alternative = "l")
 
 library(car)
 # Levene's test with one independent variable
-leveneTest(weight ~ group, data = PlantGrowth)}
+leveneTest(weight ~ group, data = PlantGrowth)
 
 
 
