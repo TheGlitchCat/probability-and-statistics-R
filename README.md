@@ -3,6 +3,8 @@
 
 ## Contents / Contenido
 - [0. Set Up / Instalación](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/00-set-up)
+  - [Windows](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/00-set-up#windows)
+  - [Linux](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/00-set-up#linux)
 - [1. Variables](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/01-Variables)
 - [2. Classical Probability / Probabilidad Clasica](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/02-Classical%20Probability)
 - [3. Data types / Tipos de Datos](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/03-Data%20Types)
