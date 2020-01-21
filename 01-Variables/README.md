@@ -2,13 +2,13 @@
 
 [Home / Inicio](https://github.com/TheGlitchCat/probability-and-statistics-R)
 
+### Content / Contenido
+- [Quantitative / Cuantitativas](#quantitative--cuantitativas)
+- [Qualitative / Cualitativas](#qualitative--cualitativas)
+
+
 ## Quantitative / Cuantitativas
 ![sets](https://www.ditutor.com/numeros_reales/images/10.gif)
-
-## Qualitative / Cualitativas
-![qualitative](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-9rif4Zni6k_0oBrvaGTZ_rQ_WI0wzUvMpWDLkFNolrHLYI0OQ&s)
-![level](https://cdn.pixabay.com/photo/2016/12/25/16/40/volume-1930242_960_720.png)
-
 
 #### English 
 ##### Type of variables 
@@ -18,10 +18,6 @@ Quantitative (Numerical)
 - Discrete: Whole number (1, 2, 3 or 4)
 - Continuous: Rational number (1/2, 5/8, 10/3 or 23/9)
 
-Qualitative (attribute)
-- Nominal: Without an order (Boy, Girl, Women, Men)
-- Ordinal: With an order (Low, Middle, High)
-
 #### Español
 ##### Tipos de variables 
 Cuantitativas (Numéricas)
@@ -30,6 +26,21 @@ Cuantitativas (Numéricas)
 - Discreto/a: Número entero (1, 2, 3 o 4)
 - Continuo/a: Número racional (1/2, 5/8, 10/3 o 23/9)
 
+
+## Qualitative / Cualitativas
+![qualitative](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-9rif4Zni6k_0oBrvaGTZ_rQ_WI0wzUvMpWDLkFNolrHLYI0OQ&s)
+![level](https://cdn.pixabay.com/photo/2016/12/25/16/40/volume-1930242_960_720.png)
+
+
+#### English 
+##### Type of variables
+Qualitative (attribute)
+- Nominal: Without an order (Boy, Girl, Women, Men)
+- Ordinal: With an order (Low, Middle, High)
+
+
+#### Español
+##### Tipos de variables 
 Cualitativas (Atributos)
 - Nominal: Sin un orden (Chico, Chica, Mujer, Hombre)
 - Ordinal: Con un orden (Bajo, Medio, Alto)
