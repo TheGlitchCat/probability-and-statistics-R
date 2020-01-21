@@ -1,5 +1,7 @@
 # Hypothesis Testing / Pruebas de Hipótesis
 
+[Home / Inicio](https://github.com/TheGlitchCat/probability-and-statistics-R)
+
 ![hypothesis](https://learningstatisticswithr.com/book/lsr_files/figure-html/ttesthyp-1.png)
 
 

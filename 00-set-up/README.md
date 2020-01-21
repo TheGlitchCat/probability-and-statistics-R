@@ -1,6 +1,6 @@
 # Set up / Instalación
 
-- [Back / Volver](https://github.com/TheGlitchCat/probability-and-statistics-R)
+[Home / Inicio](https://github.com/TheGlitchCat/probability-and-statistics-R)
 
 ### Content / Contenido
 - [Windows](#windows)

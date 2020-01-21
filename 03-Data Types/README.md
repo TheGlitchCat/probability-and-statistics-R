@@ -1,5 +1,7 @@
 # Data Types / Tipos de Datos
 
+[Home / Inicio](https://github.com/TheGlitchCat/probability-and-statistics-R)
+
 ## Trend / Tendencia
 ### Mean / Promedio
 #### English

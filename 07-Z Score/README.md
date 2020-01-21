@@ -1,5 +1,7 @@
 # Z Score / Valor Z
 
+[Home / Inicio](https://github.com/TheGlitchCat/probability-and-statistics-R)
+
 ![zformula](https://i.imgur.com/3TuDF4G.jpg)
 ![zscore](https://sixsigmastudyguide.com/wp-content/uploads/2014/04/z-table.jpg)
 
