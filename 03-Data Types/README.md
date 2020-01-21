@@ -2,6 +2,14 @@
 
 [Home / Inicio](https://github.com/TheGlitchCat/probability-and-statistics-R)
 
+### Content / Contenido
+- [Trend / Tendencia](#trend--tendencia)
+- [Variability / Variabilidad](#variability--variabilidad)
+- [Position / Posición](#position--posición)
+- [Form / Forma](#form--forma)
+
+
+
 ## Trend / Tendencia
 ### Mean / Promedio
 #### English
