@@ -17,6 +17,11 @@
 - [4. Boxplot / Diagrama de Cajas](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/04-Boxplot)
 - [5. Conditional Probability / Probabilidad Condicional](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/05-Conditional%20Probability)
 - [6. Random Variable / Variable Aleatoria](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/06-Random%20Variable)
+   - [Probability Function (Discrete) / Función de Probabilidad (Discreta)](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/06-Random%20Variable#probability-function-discrete--funci%c3%b3n-de-probabilidad-discreta)
+   - [Probability Distribution / Distribución de Probabilidades](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/06-Random%20Variable#probability-distribution--distribuci%c3%b3n-de-probabilidades)
+   - [Density Function / Función de densidad](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/06-Random%20Variable#density-function--funci%c3%b3n-de-densidad)
+   - [Binomial Distribution / Distribución Binomial](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/06-Random%20Variable#binomial-distribution--distribuci%c3%b3n-binomial)
+   - [Poisson Distribution / Distribución de Poisson](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/06-Random%20Variable#poisson-distribution--distribuci%c3%b3n-de-poisson)
 - [7. Z Score / Valor Z](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/07-Z%20Score)
 - [8. Hypothesis Testing / Pruebas de Hipótesis](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/08-Hypothesis%20Testing)
 
