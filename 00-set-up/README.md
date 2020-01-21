@@ -1,5 +1,9 @@
 # Set up / Instalación
 
+### Content / Contenido
+- [Windows](#windows)
+- [Linux](#linux)
+
 ### Windows
 
 #### English
