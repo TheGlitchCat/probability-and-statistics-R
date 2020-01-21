@@ -2,6 +2,13 @@
 
 [Home / Inicio](https://github.com/TheGlitchCat/probability-and-statistics-R)
 
+## Content / Contenido 
+ - [Probability Function (Discrete) / Función de Probabilidad (Discreta)](#probability-function-discrete--funci%c3%b3n-de-probabilidad-discreta)
+ - [Probability Distribution / Distribución de Probabilidades](#probability-distribution--distribuci%c3%b3n-de-probabilidades)
+ - [Density Function / Función de densidad](#density-function--funci%c3%b3n-de-densidad)
+ - [Binomial Distribution / Distribución Binomial](#binomial-distribution--distribuci%c3%b3n-binomial)
+ - [Poisson Distribution / Distribución de Poisson](#poisson-distribution--distribuci%c3%b3n-de-poisson)
+
 ![rv1](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Random_Variable_as_a_Function-en.svg/1200px-Random_Variable_as_a_Function-en.svg.png)
 ![rv2](https://www.mathsisfun.com/data/images/random-variable-1.svg)
 
@@ -15,8 +22,7 @@ Hay 2 tipos de variables aleatorias:
 - Discreta: puede tomar valores como 1,2,3,...
 - Continuas: puede tomar valores reales entre 0 y 1
 
-# Probability Function (Discrete) / Función de Probabilidad (Discreta)
-
+## Probability Function (Discrete) / Función de Probabilidad (Discreta)
 ### English
 
 It is a function that assigns at each point of the sample space X = {𝒙𝟎, 𝒙𝟏,…, 𝒙𝒏} a chance that it will happen.
@@ -42,7 +48,6 @@ Teniendo en cuenta que:
 ![pfunc](https://wikimedia.org/api/rest_v1/media/math/render/svg/0e348c109ba127fc624e3e750fc03f4dee89048b)
 
 ## Probability Distribution / Distribución de Probabilidades
-
 ### Roll a dice / Lanzar un dado
 ![distribution](src/Distribution.png)
 
@@ -54,8 +59,7 @@ Probability distribution is the form we can represent the probabilities of an ev
 
 La distribución de probabilidad es la forma de representar las probabilidades de un evento, y la suma debe dar siempre 1 (100%).
 
-# Density Function / Función de densidad
-
+## Density Function / Función de densidad
 ### English
 
 It is a function that seeks to find the accumulated probability up to a certain value and how it changes at different points.
@@ -81,8 +85,7 @@ En la cual X es una variable continua no negativa, a la cual:
 ![desity3](src/Density.png)
 
 
-# Binomial Distribution / Distribución Binomial
-
+## Binomial Distribution / Distribución Binomial
 ![binom](https://www.onlinemathlearning.com/image-files/xbinomial-distribution-formula.png.pagespeed.ic.82Np1Wmmm6.png)
 
 ### English
@@ -97,8 +100,7 @@ En la cual X es una variable continua no negativa, a la cual:
 ![binom2](src/binom.png)
 
 
-# Poisson Distribution / Distribución de Poisson
-
+## Poisson Distribution / Distribución de Poisson
 ![poisson](https://www.onlinemathlearning.com/image-files/xpoisson-distribution-formula.png.pagespeed.ic.s5RE-oEm0q.png)
 
 ### English

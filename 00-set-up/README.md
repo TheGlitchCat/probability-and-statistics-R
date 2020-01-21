@@ -2,7 +2,7 @@
 
 [Home / Inicio](https://github.com/TheGlitchCat/probability-and-statistics-R)
 
-### Content / Contenido
+## Content / Contenido
 - [Windows](#windows)
 - [Linux](#linux)
 
