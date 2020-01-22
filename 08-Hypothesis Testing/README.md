@@ -2,11 +2,19 @@
 
 [Home / Inicio](https://github.com/TheGlitchCat/probability-and-statistics-R)
 
+## Content / Contenido
+- [Confidence Interval / Intervalo de Confianza](#confidence-interval--intervalo-de-confianza)
+- [Tests of Normality / Prueba de Normalidad](#tests-of-normality--prueba-de-normalidad)
+- [Variance Tests / Prueba de Varianzas](#variance-tests--prueba-de-varianzas)
+- [T Test / Prueba T de Student](#t-test--prueba-t-de-student)
+- [ANOVA](#anova)
+- [Chi Square / Chi Cuadrado](#chi-square--chi-cuadrado)
+
+
 ![hypothesis](https://learningstatisticswithr.com/book/lsr_files/figure-html/ttesthyp-1.png)
 
 
 ## Confidence Interval / Intervalo de Confianza
-
 ![intervalconficence](https://qph.fs.quoracdn.net/main-qimg-fb825a5584d571ed78ef869a50793a83.webp)
 
 ### English

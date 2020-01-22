@@ -24,6 +24,13 @@
    - [Poisson Distribution / Distribución de Poisson](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/06-Random%20Variable#poisson-distribution--distribuci%c3%b3n-de-poisson)
 - [7. Z Score / Valor Z](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/07-Z%20Score)
 - [8. Hypothesis Testing / Pruebas de Hipótesis](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/08-Hypothesis%20Testing)
+  - [Confidence Interval / Intervalo de Confianza](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/08-Hypothesis%20Testing#confidence-interval--intervalo-de-confianza)
+  - [Tests of Normality / Prueba de Normalidad](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/08-Hypothesis%20Testing#tests-of-normality--prueba-de-normalidad)
+  - [Variance Tests / Prueba de Varianzas](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/08-Hypothesis%20Testing#variance-tests--prueba-de-varianzas)
+  - [T Test / Prueba T de Student](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/08-Hypothesis%20Testing#t-test--prueba-t-de-student)
+  - [ANOVA](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/08-Hypothesis%20Testing#anova)
+  - [Chi Square / Chi Cuadrado](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/08-Hypothesis%20Testing#chi-square--chi-cuadrado)
+
 
 ## Environmnet / Entorno
 ![rstudio](src/Rstudio.PNG)
