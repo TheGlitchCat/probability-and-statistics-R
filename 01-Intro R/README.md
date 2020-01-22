@@ -1,5 +1,16 @@
 # Intro R / R Intro
 
+[Home / Inicio](https://github.com/TheGlitchCat/probability-and-statistics-R)
+
+## Content / Contenido
+- [Environmnet / Entorno](#environmnet--entorno)
+- [Adding libs or pkg / Instalar paquetes o librerias](#adding-libs-or-pkg--instalar-paquetes-o-librerias)
+- [Easy way to use python into R / La manera facil de usar python en R](#easy-way-to-use-python-into-r--la-manera-facil-de-usar-python-en-r)
+- [Help commmand / Comandos de ayuda](#help-commmand--comandos-de-ayuda)
+- [R Basics / R Basico](#r-basics--r-basico)
+- [PLOT / Graficos](#plot--graficos)
+
+
 ## Environmnet / Entorno
 ![rstudio](src/Rstudio.PNG)
 
