@@ -35,7 +35,7 @@
   - [Tests of Normality / Prueba de Normalidad](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/09-Hypothesis%20Testing#tests-of-normality--prueba-de-normalidad)
   - [Variance Tests / Prueba de Varianzas](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/09-Hypothesis%20Testing#variance-tests--prueba-de-varianzas)
   - [T Test / Prueba T de Student](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/09-Hypothesis%20Testing#t-test--prueba-t-de-student)
-  - [ANOVA](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/08-Hypothesis%20Testing#anova)
+  - [ANOVA](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/09-Hypothesis%20Testing#anova)
   - [Chi Square / Chi Cuadrado](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/09-Hypothesis%20Testing#chi-square--chi-cuadrado)
 
 
