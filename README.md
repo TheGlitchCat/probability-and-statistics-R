@@ -1,6 +1,8 @@
 # Probability and statistics R
 ### R Manual
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/991px-R_logo.svg.png">
+
 ## Contents / Contenido
 - [0. Set Up / Instalación](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/00-set-up)
   - [Windows](https://github.com/TheGlitchCat/probability-and-statistics-R/tree/master/00-set-up#windows)
